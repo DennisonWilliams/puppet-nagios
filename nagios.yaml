@@ -1,0 +1,4 @@
+--- 
+:send_nsca: /usr/sbin/send_nsca
+:send_nsca_config: /etc/send_nsca.cfg
+:nsca_host: 
